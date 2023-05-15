@@ -1,0 +1,47 @@
+[
+    {
+        "infinitive": "wake",
+        "past_simple": "woke",
+        "past_participle": "woken"
+    },
+    {
+        "infinitive": "wear",
+        "past_simple": "wore",
+        "past_participle": "worn"
+    },
+    {
+        "infinitive": "weave",
+        "past_simple": "wove",
+        "past_participle": "woven/weaved"
+    },
+    {
+        "infinitive": "weep",
+        "past_simple": "wept",
+        "past_participle": "wept"
+    },
+    {
+        "infinitive": "wet",
+        "past_simple": "wet/wetted",
+        "past_participle": "wet/wetted"
+    },
+    {
+        "infinitive": "win",
+        "past_simple": "won",
+        "past_participle": "won"
+    },
+    {
+        "infinitive": "wind",
+        "past_simple": "wound",
+        "past_participle": "wound"
+    },
+    {
+        "infinitive": "wring",
+        "past_simple": "wrung",
+        "past_participle": "wrung"
+    },
+    {
+        "infinitive": "write",
+        "past_simple": "wrote",
+        "past_participle": "written"
+    }
+]

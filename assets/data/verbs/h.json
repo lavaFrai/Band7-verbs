@@ -1,0 +1,37 @@
+[
+    {
+        "infinitive": "hang",
+        "past_simple": "hung/hanged",
+        "past_participle": "hung/hanged"
+    },
+    {
+        "infinitive": "have",
+        "past_simple": "had",
+        "past_participle": "had"
+    },
+    {
+        "infinitive": "hear",
+        "past_simple": "heard",
+        "past_participle": "heard"
+    },
+    {
+        "infinitive": "hide",
+        "past_simple": "hid",
+        "past_participle": "hidden"
+    },
+    {
+        "infinitive": "hit",
+        "past_simple": "hit",
+        "past_participle": "hit"
+    },
+    {
+        "infinitive": "hold",
+        "past_simple": "held",
+        "past_participle": "held"
+    },
+    {
+        "infinitive": "hurt",
+        "past_simple": "hurt",
+        "past_participle": "hurt"
+    }
+]

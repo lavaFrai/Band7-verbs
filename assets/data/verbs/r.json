@@ -1,0 +1,27 @@
+[
+    {
+        "infinitive": "read",
+        "past_simple": "read/red",
+        "past_participle": "read/red"
+    },
+    {
+        "infinitive": "ride",
+        "past_simple": "rode",
+        "past_participle": "ridden"
+    },
+    {
+        "infinitive": "ring",
+        "past_simple": "rang",
+        "past_participle": "rung"
+    },
+    {
+        "infinitive": "rise",
+        "past_simple": "rose",
+        "past_participle": "risen"
+    },
+    {
+        "infinitive": "run",
+        "past_simple": "ran",
+        "past_participle": "run"
+    }
+]

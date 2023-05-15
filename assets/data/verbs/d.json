@@ -1,0 +1,42 @@
+[
+    {
+        "infinitive": "deal",
+        "past_simple": "dealt",
+        "past_participle": "dealt"
+    },
+    {
+        "infinitive": "dig",
+        "past_simple": "dug",
+        "past_participle": "dug"
+    },
+    {
+        "infinitive": "do",
+        "past_simple": "did",
+        "past_participle": "done"
+    },
+    {
+        "infinitive": "draw",
+        "past_simple": "drew",
+        "past_participle": "drawn"
+    },
+    {
+        "infinitive": "dream",
+        "past_simple": "dreamt/dreamed",
+        "past_participle": "dreamt/dreamed"
+    },
+    {
+        "infinitive": "drink",
+        "past_simple": "drank",
+        "past_participle": "drunk"
+    },
+    {
+        "infinitive": "drive",
+        "past_simple": "drove",
+        "past_participle": "driven"
+    },
+    {
+        "infinitive": "dwell",
+        "past_simple": "dwelt/dwelled",
+        "past_participle": "dwelt/dwelled"
+    }
+]

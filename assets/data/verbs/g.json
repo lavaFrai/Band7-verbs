@@ -1,0 +1,22 @@
+[
+    {
+        "infinitive": "get",
+        "past_simple": "got",
+        "past_participle": "got"
+    },
+    {
+        "infinitive": "give",
+        "past_simple": "gave",
+        "past_participle": "given"
+    },
+    {
+        "infinitive": "go",
+        "past_simple": "went",
+        "past_participle": "gone"
+    },
+    {
+        "infinitive": "grow",
+        "past_simple": "grew",
+        "past_participle": "grown"
+    }
+]

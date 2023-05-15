@@ -1,0 +1,57 @@
+[
+    {
+        "infinitive": "lay",
+        "past_simple": "laid",
+        "past_participle": "laid"
+    },
+    {
+        "infinitive": "lead",
+        "past_simple": "led",
+        "past_participle": "led"
+    },
+    {
+        "infinitive": "lean",
+        "past_simple": "leant/leaned",
+        "past_participle": "leant/leaned"
+    },
+    {
+        "infinitive": "leap",
+        "past_simple": "leapt/leaped",
+        "past_participle": "leapt/leaped"
+    },
+    {
+        "infinitive": "learn",
+        "past_simple": "learnt/learned",
+        "past_participle": "learnt/learned"
+    },
+    {
+        "infinitive": "leave",
+        "past_simple": "left",
+        "past_participle": "left"
+    },
+    {
+        "infinitive": "lend",
+        "past_simple": "lent",
+        "past_participle": "lent"
+    },
+    {
+        "infinitive": "let",
+        "past_simple": "let",
+        "past_participle": "let"
+    },
+    {
+        "infinitive": "lie",
+        "past_simple": "lay",
+        "past_participle": "lain"
+    },
+    {
+        "infinitive": "light",
+        "past_simple": "lit",
+        "past_participle": "lit"
+    },
+    {
+        "infinitive": "lose",
+        "past_simple": "lost",
+        "past_participle": "lost"
+    }
+]

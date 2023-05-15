@@ -1,0 +1,237 @@
+[
+    {
+        "infinitive": "saw",
+        "past_simple": "sawed",
+        "past_participle": "sawn/sawed"
+    },
+    {
+        "infinitive": "say",
+        "past_simple": "said",
+        "past_participle": "said"
+    },
+    {
+        "infinitive": "see",
+        "past_simple": "saw",
+        "past_participle": "seen"
+    },
+    {
+        "infinitive": "seek",
+        "past_simple": "sought",
+        "past_participle": "sought"
+    },
+    {
+        "infinitive": "sell",
+        "past_simple": "sold",
+        "past_participle": "sold"
+    },
+    {
+        "infinitive": "send",
+        "past_simple": "sent",
+        "past_participle": "sent"
+    },
+    {
+        "infinitive": "set",
+        "past_simple": "set",
+        "past_participle": "set"
+    },
+    {
+        "infinitive": "sew",
+        "past_simple": "sewd",
+        "past_participle": "sewn/sewed"
+    },
+    {
+        "infinitive": "shake",
+        "past_simple": "shook",
+        "past_participle": "shaken"
+    },
+    {
+        "infinitive": "shear",
+        "past_simple": "sheared",
+        "past_participle": "shorn/sheared"
+    },
+    {
+        "infinitive": "shed",
+        "past_simple": "shed",
+        "past_participle": "shed"
+    },
+    {
+        "infinitive": "shine",
+        "past_simple": "shone",
+        "past_participle": "shone"
+    },
+    {
+        "infinitive": "shoot",
+        "past_simple": "shot",
+        "past_participle": "shot"
+    },
+    {
+        "infinitive": "show",
+        "past_simple": "showed",
+        "past_participle": "shown"
+    },
+    {
+        "infinitive": "shrink",
+        "past_simple": "shrank",
+        "past_participle": "shrunk"
+    },
+    {
+        "infinitive": "shut",
+        "past_simple": "shut",
+        "past_participle": "shut"
+    },
+    {
+        "infinitive": "sing",
+        "past_simple": "sang",
+        "past_participle": "sung"
+    },
+    {
+        "infinitive": "sink",
+        "past_simple": "sank",
+        "past_participle": "sunk"
+    },
+    {
+        "infinitive": "sit",
+        "past_simple": "sat",
+        "past_participle": "sat"
+    },
+    {
+        "infinitive": "sleep",
+        "past_simple": "slept",
+        "past_participle": "slept"
+    },
+    {
+        "infinitive": "slide",
+        "past_simple": "slid",
+        "past_participle": "slid"
+    },
+    {
+        "infinitive": "sling",
+        "past_simple": "slung",
+        "past_participle": "slung"
+    },
+    {
+        "infinitive": "smell",
+        "past_simple": "smelt/smelled",
+        "past_participle": "smelt/smelled"
+    },
+    {
+        "infinitive": "sow",
+        "past_simple": "sowed",
+        "past_participle": "sown/sowed"
+    },
+    {
+        "infinitive": "speak",
+        "past_simple": "spoke",
+        "past_participle": "spoken"
+    },
+    {
+        "infinitive": "speed",
+        "past_simple": "sped/speeded",
+        "past_participle": "sped/speeded"
+    },
+    {
+        "infinitive": "spell",
+        "past_simple": "spelt/spelled",
+        "past_participle": "spelt/spelled"
+    },
+    {
+        "infinitive": "spend",
+        "past_simple": "spent",
+        "past_participle": "spent"
+    },
+    {
+        "infinitive": "spin",
+        "past_simple": "spun/span",
+        "past_participle": "spun"
+    },
+    {
+        "infinitive": "spit",
+        "past_simple": "spit/spat",
+        "past_participle": "spit/spat"
+    },
+    {
+        "infinitive": "spill",
+        "past_simple": "spilt/spilled",
+        "past_participle": "spilt/spilled"
+    },
+    {
+        "infinitive": "split",
+        "past_simple": "split",
+        "past_participle": "split"
+    },
+    {
+        "infinitive": "spoil",
+        "past_simple": "spoilt",
+        "past_participle": "spoilt"
+    },
+    {
+        "infinitive": "spread",
+        "past_simple": "spread",
+        "past_participle": "spread"
+    },
+    {
+        "infinitive": "spring",
+        "past_simple": "sprang",
+        "past_participle": "sprung"
+    },
+    {
+        "infinitive": "stand",
+        "past_simple": "stood",
+        "past_participle": "stood"
+    },
+    {
+        "infinitive": "steal",
+        "past_simple": "stole",
+        "past_participle": "stolen"
+    },
+    {
+        "infinitive": "stick",
+        "past_simple": "stuck",
+        "past_participle": "stuck"
+    },
+    {
+        "infinitive": "stink",
+        "past_simple": "stank",
+        "past_participle": "stunk"
+    },
+    {
+        "infinitive": "strike",
+        "past_simple": "struck",
+        "past_participle": "struck"
+    },
+    {
+        "infinitive": "sting",
+        "past_simple": "stung",
+        "past_participle": "stung"
+    },
+    {
+        "infinitive": "strive",
+        "past_simple": "strove",
+        "past_participle": "striven"
+    },
+    {
+        "infinitive": "swear",
+        "past_simple": "swore",
+        "past_participle": "sworn"
+    },
+    {
+        "infinitive": "sweep",
+        "past_simple": "swept",
+        "past_participle": "swept"
+    },
+    {
+        "infinitive": "swell",
+        "past_simple": "swelled",
+        "past_participle": "swollen/swelled"
+    },
+    {
+        "infinitive": "swim",
+        "past_simple": "swam",
+        "past_participle": "swum"
+    },
+    {
+        "infinitive": "swing",
+        "past_simple": "swung",
+        "past_participle": "swung"
+    }
+]
